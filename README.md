@@ -11,4 +11,5 @@ I also deployed a Amun, Cowrie and Shockpot on a separate EC2 instance.
 It appears that this honeypot is attacked at a much lower frequency compared to that of the Dionaea Honeypot.
 
 At one point I was locked out of my AWS because it appeared that the private key pair was changed and I was locked out of my VM
+
 ![](lockedout.PNG)
