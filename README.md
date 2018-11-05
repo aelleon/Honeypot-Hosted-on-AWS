@@ -7,8 +7,8 @@ In the past hour, there were approximately 200 attacks, with most of the attacks
 The top attacker's IP address is 120.27.4.81 (China) with 108 attacks.
 The top port that was attacked was port 80 (114 times).
 
-I also deployed a Amun on a separate EC2 instance.
+I also deployed a Amun, Cowrie and Shockpot on a separate EC2 instance.
 It appears that this honeypot is attacked at a much lower frequency compared to that of the Dionaea Honeypot.
 
-At one point I was locked out of my AWS because it appeared that the private key pair was changed
+At one point I was locked out of my AWS because it appeared that the private key pair was changed and I was locked out of my VM
 ![](lockedout.PNG)
