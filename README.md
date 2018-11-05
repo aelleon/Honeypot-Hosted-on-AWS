@@ -13,3 +13,5 @@ It appears that this honeypot is attacked at a much lower frequency compared to 
 At one point I was locked out of my AWS because it appeared that the private key pair was changed and I was locked out of my VM
 
 ![](lockedout.PNG)
+
+The only unresolved question I have is how I was locked out of my VM (if it was because of a mistake, or because the key pair was actually changed through an exploit.
